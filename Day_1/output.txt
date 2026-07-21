@@ -1,0 +1,57 @@
+d71@MacBook-Air-D71 AAASE_Labs %  source /Users/d71/Desktop/AAASE_Labs/.venv/bin/activate
+^C%                                                                                                              
+d71@MacBook-Air-D71 AAASE_Labs % /Users/d71/Desktop/AAASE_Labs/.venv/bin/python /Users/d71/Desktop/AAASE_Labs/Day
+_1/enterprise_agent.py
+[2026-07-21 11:26:25] ================================================
+[2026-07-21 11:26:25] ENTERPRISE WORKFLOW STARTED
+[2026-07-21 11:26:25] ================================================
+[2026-07-21 11:26:25] Validation Agent: Starting validation.
+[2026-07-21 11:26:25] Validation Agent: Validation successful.
+[2026-07-21 11:26:25] Risk Assessment Agent: Performing risk assessment.
+[2026-07-21 11:26:25] Risk Assessment Agent: Risk assessment passed.
+[2026-07-21 11:26:25] Compliance Agent: Running compliance checks.
+[2026-07-21 11:26:25] Compliance Agent: Compliance checks passed.
+[2026-07-21 11:26:25] Approval Agent: Manager approval started.
+[2026-07-21 11:26:25] Approval Agent: Approved after management review.
+[2026-07-21 11:26:25] Execution Agent: Starting execution.
+[2026-07-21 11:26:25] Execution Agent: Task executed successfully.
+[2026-07-21 11:26:25] Audit Agent: Recording audit information.
+[2026-07-21 11:26:25] Audit Agent: Final status = COMPLETED
+[2026-07-21 11:26:25] WORKFLOW COMPLETED SUCCESSFULLY
+[2026-07-21 11:26:25] ================================================
+
+
+================================================
+FINAL ENTERPRISE REPORT
+================================================
+Employee Name : Ahmed Hassan
+Department    : Finance
+Request Type  : Cloud Infrastructure Purchase
+Amount        : 15000
+Approved      : True
+Rejected      : False
+Execution     : COMPLETED
+================================================
+
+
+================================================
+AUDIT LOGS
+================================================
+[2026-07-21 11:26:25] ================================================
+[2026-07-21 11:26:25] ENTERPRISE WORKFLOW STARTED
+[2026-07-21 11:26:25] ================================================
+[2026-07-21 11:26:25] Validation Agent: Starting validation.
+[2026-07-21 11:26:25] Validation Agent: Validation successful.
+[2026-07-21 11:26:25] Risk Assessment Agent: Performing risk assessment.
+[2026-07-21 11:26:25] Risk Assessment Agent: Risk assessment passed.
+[2026-07-21 11:26:25] Compliance Agent: Running compliance checks.
+[2026-07-21 11:26:25] Compliance Agent: Compliance checks passed.
+[2026-07-21 11:26:25] Approval Agent: Manager approval started.
+[2026-07-21 11:26:25] Approval Agent: Approved after management review.
+[2026-07-21 11:26:25] Execution Agent: Starting execution.
+[2026-07-21 11:26:25] Execution Agent: Task executed successfully.
+[2026-07-21 11:26:25] Audit Agent: Recording audit information.
+[2026-07-21 11:26:25] Audit Agent: Final status = COMPLETED
+[2026-07-21 11:26:25] WORKFLOW COMPLETED SUCCESSFULLY
+[2026-07-21 11:26:25] ================================================
+d71@MacBook-Air-D71 AAASE_Labs % 

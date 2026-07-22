@@ -1,5 +1,0 @@
-.venv/
-**/.env
-.env
-__pycache__/
-enterprise_memory_db/
